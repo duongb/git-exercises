@@ -1,1 +1,0 @@
-print("Hello GitHub Pull Requests-Issues extension")
